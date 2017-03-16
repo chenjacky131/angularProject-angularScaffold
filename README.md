@@ -1,1 +1,2 @@
 # angularProject-angularScaffold
+angularjs脚手架项目，可直接用来做angular项目
